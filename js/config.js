@@ -15,7 +15,7 @@ const CONFIG = {
     {
       category: 'General',
       name: 'Mail',
-      key: 'm',
+      key: 'g',
       url: 'https://gmail.com',
       search: '/#search/text={}',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
@@ -64,7 +64,7 @@ const CONFIG = {
     {
       category: 'Programming',
       name: 'GitHub',
-      key: 'g',
+      key: 'gh',
       url: 'https://github.com',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
